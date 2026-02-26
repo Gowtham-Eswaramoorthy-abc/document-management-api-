@@ -1,0 +1,13 @@
+com/documents/demo/repository/DocumentRepository.class
+com/documents/demo/repository/UserRepository.class
+com/documents/demo/config/DataInitializer.class
+com/documents/demo/DemoApplication.class
+com/documents/demo/controller/DocumentController.class
+com/documents/demo/service/DocumentService.class
+com/documents/demo/entity/User$Role.class
+com/documents/demo/controller/AuthController.class
+com/documents/demo/security/JwtUtil.class
+com/documents/demo/security/JwtFilter.class
+com/documents/demo/entity/User.class
+com/documents/demo/security/SecurityConfig.class
+com/documents/demo/entity/Document.class
